@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\joeyt\documents\whitworth fall 2018\cs 273\finalproject\zfinal\zfinal\main.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ZFinal.vcxproj -> C:\Users\joeyt\Documents\Whitworth Fall 2018\CS 273\FinalProject\ZFinal\Debug\ZFinal.exe
